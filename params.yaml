@@ -1,0 +1,8 @@
+model_names:
+  - llama-3.1-8b-instant
+  - mixtral-8x7b-32768
+  - whisper-large-v3
+  - llama-3.1-70b-versatile
+
+default_model: llama-3.1-8b-instant
+num_records: 120

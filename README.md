@@ -1,7 +1,8 @@
 ### Interact with MySQL Database Using Open-Source LLMs
 **Description :**  
 
-The interact_with_MySQL project allows users to interact with a MySQL database using natural language instead of writing complex SQL queries. The goal is to simplify data access and make interactions more intuitive for users who are not experienced with SQL.
+The interact_with_MySQL project allows users to interact with a MySQL database using natural language instead of writing complex SQL queries.  
+The goal is to simplify data access and make interactions more intuitive for users who are not experienced with SQL.
 
 This project uses Streamlit for the user interface, MySQL-connector for connecting to MySQL, and Groq for API integration and natural language processing (LLMs).
 
