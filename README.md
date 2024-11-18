@@ -11,7 +11,12 @@ This project uses Streamlit for the user interface, MySQL-connector for connecti
 - Connect to a MySQL database.
 - Execute SQL queries via natural language.
 - Interactive user interface with Streamlit.
-- Integration with the Groq API for natural language model management.  
+- Integration with the Groq API for natural language model management. 
+
+**Data :**
+- Airline Delays :
+    - Airline Delays for December 2019 and 2020
+    - kaggle link : [https://www.kaggle.com/datasets/eugeniyosetrov/airline-delays?select=airline_delay.csv]
 
 **Technologies :**  
 
